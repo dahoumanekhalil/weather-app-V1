@@ -1,4 +1,4 @@
-let apiKey = '4f165b397c5a3ac9af3e431ee682466e';
+let apiKey = '';
 let apiBase = 'http://api.openweathermap.org/data/2.5/';
 let body = document.querySelector("body");
 let search = document.querySelector(".searchInput");
